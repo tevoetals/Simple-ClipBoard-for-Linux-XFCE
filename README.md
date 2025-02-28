@@ -3,10 +3,11 @@ Overview
 This is a lightweight clipboard manager designed to run in the background on Linux (XFCE and other environments). It enhances clipboard functionality by allowing users to quickly access and manage copied items.
 
 How it Works
-Copy: Any text copied will be stored in the clipboard history.
+Any text copied will be stored in the clipboard history.
 Paste with Ctrl + Alt + V: Opens a selection window with clipboard history.
 Select an item: Navigate using arrow keys or mouse clicks.
 Paste: Press Enter or Space to paste the selected item.
+
 Installation
 Before running the script, ensure you have the required dependencies installed. You can install them using pip:
 
